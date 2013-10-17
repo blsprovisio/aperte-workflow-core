@@ -1,4 +1,4 @@
-Aperte Workflow 3.0 beta 2
+Aperte Workflow 3.0 rc1
 -----------------
 Aperte Workflow is a compilation of well-known, stable and mature frameworks into a complete BPM solution developed by
 [BlueSoft sp. z o.o.](http://www.bluesoft.net.pl/) - Polish independent software vendor. Project home page is available
